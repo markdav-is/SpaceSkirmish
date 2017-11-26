@@ -3,7 +3,7 @@
 
 A 4X cards and dice game
 
-## More details on [Discord] (https://discord.gg/RHaUH2t)
+## More details on [Discord](https://discord.gg/RHaUH2t)
 
 Using scrivener for the docs.  Trying that with GitHub.  good times.  
 
