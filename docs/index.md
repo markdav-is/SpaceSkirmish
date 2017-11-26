@@ -7,4 +7,7 @@ A 4X cards and dice game
 
 ## Using scrivener to make a [Manual](manual.html/manual.html)  
 
-> Drawings using bamboo slate in the project drawings folder.
+> Drawings using bamboo slate
+> Mindmaps using MindMup
+> in the project [research](https://github.com/nohorse/SpaceSkirmish/tree/master/Research) folder.
+
