@@ -1,0 +1,9 @@
+All planets produce the cube of it’s color.  
+	•	Colony planets produce tan cubes
+	•	Ore planets produce grey cubes
+	•	Market planets produce green goods cubes
+
+A planet can only store 3 cubes of a given color unless it has been upgraded with caves that allow storage of 3 more cubes for a total of 6 cubes.
+
+Freighters are required to move cubs between planets.
+
