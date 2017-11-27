@@ -13,3 +13,4 @@ Mindmaps using MindMup
 
 >in the project [research](https://github.com/nohorse/SpaceSkirmish/tree/master/Research) folder.
 
+![first card](images/first-card.jpg)
